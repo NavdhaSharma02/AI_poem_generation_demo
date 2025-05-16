@@ -28,7 +28,6 @@ AI_text_generation_demo
 
 ---
 
-
 ## RNN
 
 So I used Tensorflow framework here to build my project.Tesnor flow helps in training deep neural networks .
@@ -45,7 +44,7 @@ TensorBoard: For visualizing training progress and debugging.
 - Text data → Clean + Encode → Batch sequences → Train RNN → Generate poetry
 
 ## Drawbacks
-- It is not stateful (can't reemeber anything it process)
+- It is not stateful (can't remeber anything it process)
 - Too less training data
 - Too less epoches
 - Sequence length too short to capture poetic patterns 
