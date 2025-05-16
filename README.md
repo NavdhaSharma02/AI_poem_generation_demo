@@ -1,4 +1,4 @@
-# AI_text_generation_demo
+# AI_poem_generation_demo
 
 Just trying to learn how to train an AI model and hence, this is a beginner level AI project that uses a Recurrent Neural Network (RNN) to generate poetic text based on a small training dataset.
 
@@ -21,7 +21,7 @@ Just trying to learn how to train an AI model and hence, this is a beginner leve
 ---
 
 ## File structure:-
-AI_text_generation_demo
+AI_poem_generation_demo
 - data.txt         <- A samll dataset containing training data
 - generate.py      <- script 
 - venv              <-virtual environment
@@ -29,7 +29,6 @@ AI_text_generation_demo
 ---
 
 ## RNN
-
 So I used Tensorflow framework here to build my project.Tesnor flow helps in training deep neural networks .
 Key Components OF Tensorflow:-
 tf.keras: High-level API for building models quickly.
